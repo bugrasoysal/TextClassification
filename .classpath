@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/bugra/Downloads/antlr4-runtime-4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bugra/Downloads/args4j-2.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bugra/Downloads/caffeine-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bugra/Downloads/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bugra/Downloads/protobuf-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bugra/Downloads/zemberek-all-0.13.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
